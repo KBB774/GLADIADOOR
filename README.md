@@ -12,4 +12,4 @@ You are placed into a gladiator style arena where you
 
 ![Mockup Image 1](https://github.com/KBB774/GLADIADOOR/blob/main/images/Fated_Door_Draft_2.gif?raw=true)
 This is kind of what I'm looking for the arena to look like
-![Mockup Image2](https://github.com/KBB774/GLADIADOOR/blob/main/images/istockphoto-137801222-612x612.jpg?raw=true)
+![Mockup Image2](https://github.com/KBB774/GLADIADOOR/blob/main/images/Arena_Mockup.png?raw=true)
