@@ -16,3 +16,8 @@ You are placed into a gladiator style arena where you
 This is kind of what I'm looking for the arena to look like
 ![Mockup Image2](https://github.com/KBB774/GLADIADOOR/blob/main/images/Arena_Mockup.png?raw=true)
 ![Mockup Image3](https://github.com/KBB774/GLADIADOOR/blob/main/images/Screenshot%202026-01-30%20104345.png?raw=true)
+
+## Art and Visual Design
+
+- I made several animations, materials, and backgrounds for this Unity project
+- Full creds will go to the creators of assets I use
