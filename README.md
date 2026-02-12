@@ -28,3 +28,4 @@ Platform Mockup
 
 - I made several animations, materials, and backgrounds for this Unity project
 - Full creds will go to the creators of assets I use
+- I used Unity, Blender, and Tinkercad for my assets
