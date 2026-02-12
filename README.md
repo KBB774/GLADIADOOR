@@ -20,7 +20,7 @@ This is kind of what I'm looking for the arena to look like
 ## Art and Visual Design
 
 ![HoverPlatformVideo](https://github.com/KBB774/GLADIADOOR/blob/main/videos/WeaponHover.mp4)
-![WeaponSpinVideo](<video src="https://github.com/KBB774/GLADIADOOR/blob/main/videos/WeaponHover.mp4" controls width="600"></video>)
+![WeaponSpinVideo]<video src="https://github.com/KBB774/GLADIADOOR/blob/main/videos/WeaponHover.mp4" controls width="600"></video>
 
 - I made several animations, materials, and backgrounds for this Unity project
 - Full creds will go to the creators of assets I use
