@@ -53,7 +53,7 @@
       /* Styles navigation links */
       color: #fff;
       text-decoration: none;
-      font-size: 14px;
+      font-size: 28px;
     }
     nav a:hover {
       /* Hover effect for navigation links */
@@ -70,7 +70,7 @@
     main p, main h2, main ul {
       /* Styles content text and lists */
       margin: 0 0 10px 0;
-      font-size: 16px;
+      font-size: 32px;
       color: #222;
     }
     main img {
